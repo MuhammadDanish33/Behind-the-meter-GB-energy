@@ -1,8 +1,8 @@
 # Behind the Meter: GB Embedded Renewable Impact, Duck Curve Dynamics & System Flexibility Pressures
 
 **Author:** Muhammad Danish  
-**Dataset:** NESO Half-Hourly Electricity Data 2025
-**Tool:** Microsoft Power BI  
+**Dataset:** NESO Half-Hourly Electricity Data(2025)
+ **Tool:** Microsoft Power BI  
 
 ---
 
